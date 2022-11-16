@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndresJose_COMP304Sec002_Lab5_Group13</string>
+    <string name="Login_Page">user</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_user">user</string>
+    <string name="enterUser">Enter User:</string>
+    <string name="sing_up">Sing up</string>
+    <string name="log_in">Login</string>
+    <string name="createUser">Create User</string>
+    <string name="goToLoginPage">Go To Login Page</string>
+    <string name="Confirmpassword">Confirm password</string>
+    <string name="password">password</string>
+    <string name="prompt_password_confirm">Confirm password</string>
+    <string name="aircraftName">Airplane Name::</string>
+    <string name="airplaneName">Airplane Name:</string>
+    <string name="airplaneManufacturer" />
+    <string name="airplanename">Airplane name:</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="cost">Cost:</string>
+    <string name="capacity">Capacity:</string>
+    <string name="insert">Insert</string>
+    <string name="watchList">List of Airplanes:</string>
+</resources>
